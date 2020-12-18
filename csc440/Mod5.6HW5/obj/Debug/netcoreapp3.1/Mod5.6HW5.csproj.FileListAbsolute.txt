@@ -1,0 +1,13 @@
+C:\Mod5.6HW5\bin\Debug\netcoreapp3.1\Mod5.6HW5.exe
+C:\Mod5.6HW5\bin\Debug\netcoreapp3.1\Mod5.6HW5.deps.json
+C:\Mod5.6HW5\bin\Debug\netcoreapp3.1\Mod5.6HW5.runtimeconfig.json
+C:\Mod5.6HW5\bin\Debug\netcoreapp3.1\Mod5.6HW5.runtimeconfig.dev.json
+C:\Mod5.6HW5\bin\Debug\netcoreapp3.1\Mod5.6HW5.dll
+C:\Mod5.6HW5\bin\Debug\netcoreapp3.1\Mod5.6HW5.pdb
+C:\Mod5.6HW5\obj\Debug\netcoreapp3.1\Mod5.6HW5.csprojAssemblyReference.cache
+C:\Mod5.6HW5\obj\Debug\netcoreapp3.1\Mod5.6HW5.AssemblyInfoInputs.cache
+C:\Mod5.6HW5\obj\Debug\netcoreapp3.1\Mod5.6HW5.AssemblyInfo.cs
+C:\Mod5.6HW5\obj\Debug\netcoreapp3.1\Mod5.6HW5.csproj.CoreCompileInputs.cache
+C:\Mod5.6HW5\obj\Debug\netcoreapp3.1\Mod5.6HW5.dll
+C:\Mod5.6HW5\obj\Debug\netcoreapp3.1\Mod5.6HW5.pdb
+C:\Mod5.6HW5\obj\Debug\netcoreapp3.1\Mod5.6HW5.genruntimeconfig.cache
